@@ -1,0 +1,5 @@
+== inventory
+200 {"project":{"id":"zenray-assets-tube-view","name":"ZenRay Assets Tube View","category":"Projet","feedbackPath":"/Users/zenray/.claude/Memory1/Projects/zenray-assets-tube-view/FEEDBACK.md","sources":[{"id":"workshop","namespace":"tmp","localPath":"/Users/zenray/.claude/tmp/tmp-zenray-assets-tube-view","exclude":[],"keep":false,"present":true,"status":"present","count":7,"bytes":103267,"checkedAt":"2026-10-12T14:52:21.969Z"},{"id":"project-notes","namespace":"memory","localPath":"/Users/zenray/.claude/Memory1/Projects/zenray-assets-tube-view","keep":true,"exclude":[],"present":true,"status":"present","count":7,"bytes":51392,"checkedAt":"2026-10-12T14:52:21.968Z"}],"folder":"pages/ZenRayAssets/
+
+== archive
+200 {"jobId":"03b6df08-3f3c-41ad-8387-411525102182","job":{"id":"03b6df08-3f3c-41ad-8387-411525102182","projectId":"zenray-assets-tube-view","type":"archive","state":"queued","createdAt":"2026-10-12T14:52:24.312Z","error":null},"state":"queued","checkedAt":"2026-10-12T14:52:24.312Z"}
